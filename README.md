@@ -29,4 +29,9 @@ Copy and paste api_id and api_hash in file "config.ini" to folder of project as 
 
 ![изображение](https://user-images.githubusercontent.com/77580844/133889120-bfa89540-9956-4c6d-9504-7a5ae2b5d5cb.png)
 
+Add name of group (where we will call participants)
+
+![изображение](https://user-images.githubusercontent.com/77580844/133896032-df890e21-b410-4471-b843-6e1dc3e72cb1.png)
+
+
 <h3>3. All is ready!</h3>
