@@ -25,13 +25,6 @@ Go to https://my.telegram.org/auth and login in system. Then choose "API develop
 Fill in all the fields on the page (you don’t have to fill url and description) and click "Create application"
 Copy and paste api_id and api_hash in file "config.ini" to folder of project as shown in figure.
 
-![изображение](https://user-images.githubusercontent.com/77580844/133889045-879954dd-843f-4acd-a30b-c704c9064528.png)
-
-![изображение](https://user-images.githubusercontent.com/77580844/133889120-bfa89540-9956-4c6d-9504-7a5ae2b5d5cb.png)
-
 Add name of group (where we will call participants)
-
-![изображение](https://user-images.githubusercontent.com/77580844/133896032-df890e21-b410-4471-b843-6e1dc3e72cb1.png)
-
 
 <h3>3. All is ready!</h3>
